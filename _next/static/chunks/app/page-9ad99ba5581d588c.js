@@ -784,9 +784,9 @@
                                 }), (0, r.jsx)("p", {
                                     className: "text-md md:text-md lg:text-lg mb-3 leading-tight tracking-tight opacity-95",
                                     children: t.description
-                                }), (0, r.jsx)(A, {
-                                    onClick: () => window.location.href = t.playLink,
-                                    className: "w-[100%] md:w-[90%] mx-auto"
+                                // }), (0, r.jsx)(A, {
+                                //     onClick: () => window.location.href = t.playLink,
+                                //     className: "w-[100%] md:w-[90%] mx-auto"
                                 })]
                             })]
                         })
